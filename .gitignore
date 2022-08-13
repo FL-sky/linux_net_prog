@@ -1,0 +1,10 @@
+**/*.exe
+**/.vscode
+**/.vs
+**/Debug
+**/*.sln
+**/*.vcxproj
+**/*.filters
+**/*.user
+**/Release
+**/.out
